@@ -2,7 +2,7 @@
 Remember the sequential order of numbers displaying on your screen then tap them again
 
 # Link APK:
-https://l.facebook.com/l.php?u=https%3A%2F%2Fexp-shell-app-assets.s3-us-west-1.amazonaws.com%2Fandroid%252F%2540ducnx1997%252Fsequent-mod-2017-574c931b-7b92-11e7-82d4-0a580a7800cd-signed.apk&h=ATNpN0mpHisZ2lr4kFngDOjNERgrAJIrf021w4t0xYnoihhgBuQCoQdRUHkV4lAz0GYGe3y9wyJPIiFyN89ucrlPZUEZjX-WfKbQm_qZnPKH5HV5tnNZexVf39xNf7ExRCFIAlQcCC0J6OgZXq0gFw
+https://exp-shell-app-assets.s3-us-west-1.amazonaws.com/android%2F%40ducnx1997%2Fsequent-mod-2017-574c931b-7b92-11e7-82d4-0a580a7800cd-signed.apk
 
 # Screenshot:
 ![Alt text](/src/21175229_1900063053568324_2105803895_n.png?raw=true "Optional Title")
