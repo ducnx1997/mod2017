@@ -1,5 +1,12 @@
 {
   "expo": {
-    "sdkVersion": "18.0.0"
+    "name": "Sequent",
+    "version": "1.0.0",
+    "icon": "./src/f9231781f36f3b57112647921a8a72a4.png",
+    "slug": "sequent-mod-2017",
+    "sdkVersion": "18.0.0",
+    "android": {
+      "package": "com.massp.sequent"
+    }
   }
 }
